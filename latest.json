@@ -1,7 +1,7 @@
 {
-  "version": "2026.10.27-7",
-  "download_url": "https://github.com/adokondo/rakuraku-receipt-assistant-updates/releases/download/v2026.10.27-7/receipt-assistant-macos-arm64.zip",
-  "sha256": "eaffc8188ced1188cdf2ec2ba5351f6d9e6fab067b9fd1e2f85ec3675f065982",
-  "archive_size": 246768926,
+  "version": "2026.10.27-8",
+  "download_url": "https://github.com/adokondo/rakuraku-receipt-assistant-updates/releases/download/v2026.10.27-8/receipt-assistant-macos-arm64.zip",
+  "sha256": "e38a7c78fbc5207a2adb43be695627e661a417633900ffc4e3484237da75a9c3",
+  "archive_size": 246769119,
   "bundle_id": "jp.codex.rakuraku-receipt-assistant.keychain-setup"
 }
